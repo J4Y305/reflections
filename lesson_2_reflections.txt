@@ -6,3 +6,7 @@
 In working directory, shows only being chaged files. In staging area, which has committed files./ When separate two areas, the advantage is can include files which you want
 
 branch problem.
+
+git 브랜치 자동 머지의 장단점은?
+장점: 빠르게 머지를 진행할 수 있다.
+단점: 원치않는 코드가 겹칠 수 있다.
